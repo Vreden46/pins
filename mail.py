@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 smtp_server = 'smtp.1und1.de'
 smtp_port = 587
 username = 'tv@pro-vreden.de'
-password = 'Molixnel46'
+password = '#'
 
 server = smtplib.SMTP(smtp_server, smtp_port)
 server.starttls()
